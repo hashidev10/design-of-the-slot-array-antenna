@@ -10,4 +10,5 @@
 
 ## Slot 폭에 대한 파라미터 스터디
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b482e6ed-4286-4b88-bf0f-5e37e52180e2)
+
