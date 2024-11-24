@@ -6,7 +6,7 @@
 > 2. [기술 스택](#기술-스택)
 > 3. [주요 기능](#주요-기능)
 
-## 6 -Slot 어레이 안테나 설계
+# 6 -Slot 어레이 안테나 설계
 
 ![image](https://github.com/user-attachments/assets/3ebe7950-d840-4f99-b71d-df0f6db6c306)
 
@@ -46,7 +46,7 @@
 
 ![image](https://github.com/user-attachments/assets/3d7bc165-a451-4916-87fa-4adb18306c78)
 
-## 결론 및 느낀점
+# 결론 및 느낀점
 
 [결론]
 
