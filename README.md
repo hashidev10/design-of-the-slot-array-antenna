@@ -1,6 +1,6 @@
-28GHz를 중심주파수로 하는 6-Slot 어레이 안테나 설계
+##28GHz를 중심주파수로 하는 6-Slot 어레이 안테나 설계
 
-- 6 -Slot 어레이 안테나 설계
+## 6 -Slot 어레이 안테나 설계
 
 ![image](https://github.com/user-attachments/assets/3ebe7950-d840-4f99-b71d-df0f6db6c306)
 
